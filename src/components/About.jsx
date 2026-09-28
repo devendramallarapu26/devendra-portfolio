@@ -26,15 +26,15 @@ export default function About() {
         </h2>
 
         <p className="text-[#71717A] text-sm/6 lg:text-base mt-5 lg:mt-10">
-          I'm a passionate full-stack developer specializing in **React.js & Node.js**. I thrive on blending technical expertise with sleek UI/UX design to build high-performing, user-friendly applications.
+         I’m a <strong>Python Developer and AI Builder</strong> focused on creating practical software solutions using Python, Data Science, and Generative AI. I enjoy taking real-world problems and turning them into useful, scalable applications.
         </p>
 
         <p className="text-[#71717A] text-sm/6 lg:text-base mt-3 lg:mt-5">
-          My web development journey started in **2015**, and since then, I've continuously evolved, taking on new challenges and keeping up with the latest technologies. Today, I build **cutting-edge web applications** using **Next.js, TypeScript, NestJS, TailwindCSS, Supabase, and more**.
+          My development journey has led me to work across Python, SQL, FastAPI, PostgreSQL, Machine Learning, Generative AI, React, and modern web technologies. I’ve built projects including AI-powered decision systems, predictive maintenance platforms, and full-stack web applications.
         </p>
 
         <p className="text-[#71717A] text-sm/6 lg:text-base mt-3 lg:mt-5">
-          Beyond coding, I enjoy sharing insights on **Twitter**, engaging with **Indie Hackers**, and following the journey of **early-stage startups**. Feel free to follow me on **Twitter** or check out my projects on **GitHub**.
+          I’m continuously improving my software engineering and problem-solving skills by building projects, experimenting with new AI technologies, and learning from real-world development challenges. I’m currently looking for opportunities where I can contribute, learn from experienced engineers, and grow as a software developer.
         </p>
       </motion.div>
     </div>
